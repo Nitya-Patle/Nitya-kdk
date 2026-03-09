@@ -1,0 +1,95 @@
+{
+ "colleges":[
+
+{
+"name":"YCCE",
+"full_name":"Yeshwantrao Chavan College of Engineering",
+"location":"Nagpur, Maharashtra",
+"courses":"B.Tech, M.Tech, MBA",
+"placements":"Top recruiters include TCS, Infosys, Capgemini",
+"hostel":"Hostel available for boys and girls"
+},
+
+{
+"name":"VNIT",
+"full_name":"Visvesvaraya National Institute of Technology",
+"location":"Nagpur, Maharashtra",
+"courses":"B.Tech, M.Tech, PhD",
+"placements":"Companies like Microsoft, Amazon, Google recruit students",
+"hostel":"On-campus hostel available"
+},
+
+{
+"name":"Raisoni",
+"full_name":"G H Raisoni College of Engineering",
+"location":"Nagpur, Maharashtra",
+"courses":"B.Tech, MBA, MCA",
+"placements":"Companies like Wipro, Infosys, TCS",
+"hostel":"Separate hostel facilities available"
+},
+
+{
+"name":"Ramdeobaba",
+"full_name":"Shri Ramdeobaba College of Engineering and Management",
+"location":"Nagpur, Maharashtra",
+"courses":"B.Tech, M.Tech, MBA",
+"placements":"Companies like TCS, Accenture, Infosys visit campus",
+"hostel":"Hostel facility available"
+},
+
+{
+"name":"JD",
+"full_name":"JD College of Engineering and Management",
+"location":"Nagpur, Maharashtra",
+"courses":"B.Tech, MBA",
+"placements":"IT companies like TCS, Wipro recruit students",
+"hostel":"Hostel available"
+},
+
+{
+"name":"KDK",
+"full_name":"KDK College of Engineering",
+"location":"Nagpur, Maharashtra",
+"courses":"B.Tech, M.Tech",
+"placements":"Companies like Infosys, Wipro and local industries",
+"hostel":"Hostel facility available"
+},
+
+{
+"name":"Jhulelal",
+"full_name":"Jhulelal Institute of Technology",
+"location":"Nagpur, Maharashtra",
+"courses":"B.Tech, MBA",
+"placements":"IT companies and startups visit campus",
+"hostel":"Hostel facility available"
+},
+
+{
+"name":"GCOE",
+"full_name":"Government College of Engineering Nagpur",
+"location":"Nagpur, Maharashtra",
+"courses":"B.Tech, M.Tech",
+"placements":"Government and private sector companies recruit students",
+"hostel":"Hostel available"
+},
+
+{
+"name":"SB Jain",
+"full_name":"S B Jain Institute of Technology Management and Research",
+"location":"Nagpur, Maharashtra",
+"courses":"B.Tech, MBA",
+"placements":"Companies like TCS, Infosys visit campus",
+"hostel":"Hostel available"
+},
+
+{
+"name":"Gurunanak",
+"full_name":"Guru Nanak Institute of Engineering and Technology",
+"location":"Nagpur, Maharashtra",
+"courses":"B.Tech, MBA",
+"placements":"Recruiters include IT companies and manufacturing firms",
+"hostel":"Hostel facility available"
+}
+
+]
+}

@@ -1,0 +1,85 @@
+{
+ "intents":[
+
+{
+"patterns":["hello","hi","hey"],
+"response":"Hello! I am the AI assistant for ABC Engineering College. How can I help you?"
+},
+
+{
+"patterns":["about college","college info","tell me about college"],
+"response":"ABC Engineering College is a leading institute located in Nagpur offering engineering and management education."
+},
+
+{
+"patterns":["location","where is college","college location"],
+"response":"ABC Engineering College is located in Nagpur, Maharashtra."
+},
+
+{
+"patterns":["courses","programs","degrees","what courses"],
+"response":"The college offers B.Tech, BCA, BBA, MBA and M.Tech programs."
+},
+
+{
+"patterns":["departments","branches"],
+"response":"Departments include Computer Science, Mechanical, Civil, Electrical and Electronics Engineering."
+},
+
+{
+"patterns":["admission","how to apply","admission process"],
+"response":"Admissions are done through entrance exams and online application on the college website."
+},
+
+{
+"patterns":["eligibility","admission eligibility"],
+"response":"Students must complete 12th with science stream for engineering courses."
+},
+
+{
+"patterns":["fees","fee structure","college fees"],
+"response":"The yearly fees range from ₹60,000 to ₹1,20,000 depending on the course."
+},
+
+{
+"patterns":["hostel","accommodation","hostel facility"],
+"response":"The college provides separate hostel facilities for boys and girls with WiFi and security."
+},
+
+{
+"patterns":["library","books","digital library"],
+"response":"The college has a large digital library with thousands of books and journals."
+},
+
+{
+"patterns":["placements","placement","jobs"],
+"response":"Top companies like TCS, Infosys, Wipro and Capgemini visit the campus for placements."
+},
+
+{
+"patterns":["placement percentage"],
+"response":"The average placement rate of the college is around 85%."
+},
+
+{
+"patterns":["canteen","food","cafeteria"],
+"response":"The campus has a large cafeteria providing healthy and affordable food."
+},
+
+{
+"patterns":["sports","sports facilities"],
+"response":"Sports facilities include cricket ground, football field, basketball court and indoor games."
+},
+
+{
+"patterns":["transport","bus facility"],
+"response":"The college provides bus transport from major areas of the city."
+},
+
+{
+"patterns":["contact","phone","email"],
+"response":"You can contact the college at +91 9876543210 or email admission@abccollege.edu."
+}
+
+ ]
+}
